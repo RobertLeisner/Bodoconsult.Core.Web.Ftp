@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bodoconsult.Core.Web.Ftp", "Bodoconsult.Core.Web.Ftp\Bodoconsult.Core.Web.Ftp.csproj", "{9E2A31D2-DF6C-4427-A08B-F9D22BAD20D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bodoconsult.Core.Web.Ftp.Test", "Bodoconsult.Core.Web.Ftp.Test\Bodoconsult.Core.Web.Ftp.Test.csproj", "{2B444EA0-01A2-4D4B-9BAF-4E37966D98C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E2A31D2-DF6C-4427-A08B-F9D22BAD20D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E2A31D2-DF6C-4427-A08B-F9D22BAD20D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E2A31D2-DF6C-4427-A08B-F9D22BAD20D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E2A31D2-DF6C-4427-A08B-F9D22BAD20D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B444EA0-01A2-4D4B-9BAF-4E37966D98C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B444EA0-01A2-4D4B-9BAF-4E37966D98C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B444EA0-01A2-4D4B-9BAF-4E37966D98C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B444EA0-01A2-4D4B-9BAF-4E37966D98C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18C5AF83-2547-439D-B10F-C96620B95C1F}
+	EndGlobalSection
+EndGlobal

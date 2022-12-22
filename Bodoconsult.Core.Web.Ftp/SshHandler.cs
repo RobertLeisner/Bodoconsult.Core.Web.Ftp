@@ -33,7 +33,7 @@ namespace Bodoconsult.Core.Web.Ftp
         /// <summary>
         /// Is SFTP server connected?
         /// </summary>
-        public bool IsConnected => _sftp.IsConnected;
+        public bool IsConnected => _sftp != null && _sftp.IsConnected;
 
 
         /// <summary>
